@@ -1,0 +1,14 @@
+{
+    "name": "asus/mirna_pbwl_uts",
+    "description": "UTS PBWL",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Mirna annifah",
+            "email": "mirnaannifah@gmail.com"
+        }
+    ]
+}
